@@ -44,12 +44,12 @@ I am actively sharpening my skills in advanced, hands-on applications of data sc
 
 ### 🎓 Certifications & Education
 
-* [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/26B2F2Z5PY9Y) | Stanford University & DeepLearning.AI
-* [**Google Advanced Data Analytics**](https://www.coursera.org/account/accomplishments/specialization/RZTQ9DMZ750H) | Google
-* [**Python 3 Programming Specialization**](https://www.coursera.org/account/accomplishments/specialization/NKH76ZXB8SQQ) | University of Michigan
-* [**Statistics with Python Specialization**](https://www.coursera.org/account/accomplishments/specialization/ANLFY6PEVSHN) | University of Michigan
-* [**Applied Statistics Diploma**](https://drive.google.com/file/d/1LAMn-uJoH2waqSWQ-VYATIXYXxBE4pkB/view) | Universidad Nacional Autónoma de Honduras
-* **Bachelor's Degree in Economics** | Universidad Nacional Autónoma de Honduras
+* [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/26B2F2Z5PY9Y) | Stanford University & DeepLearning.AI (2025)
+* [**Google Advanced Data Analytics**](https://www.coursera.org/account/accomplishments/specialization/RZTQ9DMZ750H) | Google (2025)
+* [**Python 3 Programming Specialization**](https://www.coursera.org/account/accomplishments/specialization/NKH76ZXB8SQQ) | University of Michigan (2024)
+* [**Statistics with Python Specialization**](https://www.coursera.org/account/accomplishments/specialization/ANLFY6PEVSHN) | University of Michigan (2024)
+* [**Applied Statistics Diploma**](https://drive.google.com/file/d/1LAMn-uJoH2waqSWQ-VYATIXYXxBE4pkB/view) | Universidad Nacional Autónoma de Honduras (2020)
+* **Bachelor's Degree in Economics** | Universidad Nacional Autónoma de Honduras (2018)
 
 ---
 
